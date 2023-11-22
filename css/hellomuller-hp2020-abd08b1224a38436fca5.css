@@ -180,13 +180,14 @@ img {
   line-height: 28px;
 }
 
+
 .hmmega {
   width: auto;
   color: var(--black);
   letter-spacing: normal;
   text-transform: uppercase;
   margin-top: 0;
-  margin-bottom: 100px;
+  margin-bottom: 2px;
   margin-left: -4px;
   padding-top: 10px;
   padding-bottom: 20px;
@@ -330,7 +331,7 @@ img {
 }
 
 .logo {
-  max-width: 45%;
+  max-width: 80%;
   position: absolute;
   top: auto;
   bottom: 2%;
@@ -1475,7 +1476,7 @@ img {
   }
 
   .logo {
-    max-width: 45%;
+    max-width: 75%;
   }
 
   .projects {
@@ -1834,7 +1835,7 @@ img {
   }
 
   .logo {
-    max-width: 50%;
+    max-width: 75%;
   }
 
   .projects {
@@ -2246,7 +2247,7 @@ img {
   }
 
   .hm-introduction {
-    height: 50vh;
+    height: 62vh;
     margin-bottom: 0;
     padding-top: 0;
   }
