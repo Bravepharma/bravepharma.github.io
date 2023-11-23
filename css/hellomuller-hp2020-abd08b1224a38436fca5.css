@@ -1911,7 +1911,7 @@ img {
   }
 
   .colclient {
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #ffffff;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -2253,7 +2253,7 @@ img {
   }
 
   .hm-introduction {
-    height: 62vh;
+    height: 65vh;
     margin-bottom: 0;
     padding-top: 0;
   }
