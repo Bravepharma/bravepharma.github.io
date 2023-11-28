@@ -11,6 +11,13 @@
 }
 
 
+.icons { 
+  margin-right: 0;
+  margin-left: -25%;;
+  width: 25%;
+  float: left;
+}
+
 body {
   color: #000;
   font-family: neue-haas-unica, sans-serif;
@@ -1509,7 +1516,7 @@ img {
   }
 
   .hm-introduction {
-    height: 35vh;
+    height: auto;
     margin-bottom: 60px;
     padding-left: 0;
     padding-right: 0;
@@ -1742,6 +1749,13 @@ img {
 }
 
 @media screen and (max-width: 767px) {
+  .icons{
+    max-width: 50%;
+    margin-right: 100%;
+    margin-left: 25%;
+    width: 100%;
+  }
+
   .colleftproject {
     padding-top: 0;
     padding-bottom: 10px;
@@ -1867,7 +1881,7 @@ img {
   }
 
   .hm-introduction {
-    height: 50vh;
+    height: auto;
   }
 
   .navcol3 {
@@ -2253,7 +2267,7 @@ img {
   }
 
   .hm-introduction {
-    height: 65vh;
+    height: auto;
     margin-bottom: 0;
     padding-top: 0;
   }
